@@ -33,7 +33,8 @@
     }
   ],
   "env": {
-    "DATABASE_URL": "@database-url",
-    "SESSION_SECRET": "@session-secret"
+    "DATABASE_URL": "postgresql://neondb_owner:npg_9faHW1meSqBv@ep-jolly-tooth-ad0ocaa7-pooler.c-2.us-east-1.aws.neon.tech/neondb?sslmode=require
+",
+    "SESSION_SECRET": "dagar@1234"
   }
 }
